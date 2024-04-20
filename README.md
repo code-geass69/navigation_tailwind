@@ -59,4 +59,6 @@ npm run build-css
 You can view the project by opening the HTML file in a web browser. To streamline development, you can use a live server. 
 Install live-server globally via npm or download Vs code extension
 
+## Screenshot of the Project
+![Image](image.png)
 
